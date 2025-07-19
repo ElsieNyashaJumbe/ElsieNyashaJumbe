@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElsieNyashaJumbe
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...MSU
-- 💞️ I’m looking to collaborate on ...Front End and Back end
+- 💞️ I’m looking to collaborate on ...Front End and Back end,software development
 - 📫 How to reach me ...jumbeelsie52@gmail.com
 - 😄 Pronouns: ...she/her
 
